@@ -102,7 +102,4 @@ The project demonstrates practical applications of **graph algorithms**, **pathf
    ```bash
    javac *.java
 Run the game:
-
-bash
-Copy code
 java Main
