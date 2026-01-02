@@ -1,5 +1,5 @@
 # AI-Based Maze Runner Game using A*
-
+  
 ## Overview
 This project is a grid-based maze game implemented in **Java**, where a player must escape a randomly generated maze while being chased by an AI-controlled enemy. The enemy uses the **A\*** pathfinding algorithm to dynamically pursue the player in real time.
 
